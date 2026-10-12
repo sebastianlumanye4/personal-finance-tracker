@@ -1,0 +1,2 @@
+.wrapper { text-align: center; padding: var(--space-5); }
+.wrapper h1 { font-size: 4rem; margin-bottom: var(--space-2); color: var(--color-primary); }
